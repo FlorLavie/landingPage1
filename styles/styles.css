@@ -38,17 +38,17 @@ nav li {
 
 /* TEXTO PRINCIPAL */
 .hero-text h1 {
-  font-size: 90px;
+  font-size: 85px;
   font-weight: bold;
   line-height: 1.1;
-  color: #7552e6;
+  color: #434343e7;
   margin-bottom: 50px;
 }
 
 .hero-text p {
-  font-size: 22px;
+  font-size: 20px;
   width: 500px;
-  color: #444;
+  color: #383838;
   margin-bottom: 40px;
 }
 
@@ -56,16 +56,17 @@ nav li {
 .hero-text button {
   font-size: 20px;
   padding: 18px 45px;
-   background-color: #ffecb4;
+   background-color: #6d43f6c5;
   border: none;
   border-radius: 35px;
   cursor: pointer;
   font-weight: bold;
   transition: 0.2s;
+  color: white;
 }
 
 .hero-text button:hover {
-  background-color: #e0b13f;
+  background-color: #c1b1f4e5;
 }
 
 /* IMAGEN */
@@ -73,10 +74,12 @@ nav li {
   width: 600px;
 }
 
+
+
 /* FOOTER */
 .footer {
   width: 100%;
-  background: #714cce;
+  background: #5c39b6b8;
   padding: 20px 0;
   margin-top: 60px;
   border-top: none;
